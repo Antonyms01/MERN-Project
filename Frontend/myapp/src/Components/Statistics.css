@@ -1,0 +1,30 @@
+.statistics {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #f9f9f9;
+  }
+  
+  .statistics h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+  }
+  
+  .statistics-table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 350px;
+  }
+  
+  .statistics-table th,
+  .statistics-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .statistics-table th {
+    background-color: #f2f2f2;
+  }
